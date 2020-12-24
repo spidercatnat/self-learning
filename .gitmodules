@@ -1,0 +1,18 @@
+[submodule "faunadb-nodejs-examples"]
+	path = faunadb-nodejs-examples
+	url = https://github.com/spidercatnat/faunadb-nodejs-examples.git
+[submodule "go-ml"]
+	path = go-ml
+	url = https://github.com/spidercatnat/go-ml.git
+[submodule "go-grpc-learning"]
+	path = go-grpc-learning
+	url = https://github.com/spidercatnat/go-grpc-learning.git
+[submodule "get-rusty"]
+	path = get-rusty
+	url = https://github.com/spidercatnat/get-rusty.git
+[submodule "kivy-pong"]
+	path = kivy-pong
+	url = https://github.com/spidercatnat/kivy-pong.git
+[submodule "eth-movie-ratings"]
+	path = eth-movie-ratings
+	url = https://github.com/spidercatnat/eth-movie-ratings.git
